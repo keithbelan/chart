@@ -12,4 +12,4 @@
 
 ## Live Demo
 
-[Add your Streamlit Community Cloud link here]
+https://mm2ckrapmd7wzpvnmjvsnv.streamlit.app/
